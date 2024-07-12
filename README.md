@@ -1,3 +1,3 @@
-# Projeto de automação de envio de eamils
-Para rodar instale Python, Pycharm
-Bibliotecas utilizadas: Time e Pyautogui
+# Projeto de automação
+Para rodar instale Python, Vscode ou Pycharm
+Bibliotecas utilizadas: Time, Pyautogui e Pandas
