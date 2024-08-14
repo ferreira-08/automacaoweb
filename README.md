@@ -5,4 +5,5 @@ Este repositório possui como objetivo armazenar alguns códigos escritos em Pyt
 # PREPARAÇÃO DO AMBIENTE
 
 pip install python
+
 pip install pyautogui
