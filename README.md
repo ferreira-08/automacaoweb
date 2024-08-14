@@ -7,3 +7,5 @@ Este repositório possui como objetivo armazenar alguns códigos escritos em Pyt
 pip install python
 
 pip install pyautogui
+
+pip install pandas
